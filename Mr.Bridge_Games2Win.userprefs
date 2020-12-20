@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Android\AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="12" Column="12" />
+      <File FileName="Assets\Bridges\Scripts\AdsManager\AdmobManager.cs" Line="21" Column="38" />
+      <File FileName="Assets\Bridges\Scripts\AdmobTestSuit\AdmobMediationTestSuit.cs" Line="14" Column="21" />
+      <File FileName="Assets\google-services.json" Line="13" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

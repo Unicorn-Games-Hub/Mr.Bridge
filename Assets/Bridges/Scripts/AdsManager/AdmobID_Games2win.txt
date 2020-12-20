@@ -1,0 +1,16 @@
+**Android**
+app_ID= ca-app-pub-8979435940516933~4617274737
+banner_ID= ca-app-pub-8979435940516933/9945800641
+interstitial_ID= ca-app-pub-8979435940516933/2729477996
+rewardVideo_ID=	ca-app-pub-8979435940516933/1030341371
+
+**ios**
+app_ID	=ca-app-pub-8979435940516933~4964936701
+banner_ID	=ca-app-pub-8979435940516933/2865209368
+interstitial_ID	=ca-app-pub-8979435940516933/8661419384
+rewardVideo_ID	=ca-app-pub-8979435940516933/6390479269
+
+**mopub**
+MoPub Interstitial: 6e12910fa05749c6a6a459f79f917c9f
+MoPub Banner: bc32ba647957463db695b36d315f3570
+MoPub Rewarded: 4dfafb38a4144c738f5b3472ad724104
